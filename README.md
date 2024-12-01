@@ -70,11 +70,6 @@ Since full fine-tuning requires extensive VRAM, we use **PEFT techniques** like 
 
 ---
 
-## 🤝 **Contributing**  
-Contributions are welcome! Please submit a pull request or open an issue for suggestions and improvements.
-
----
-
 ## 💬 **Acknowledgments**  
 - **Meta AI** for developing LLaMA.  
 - **Hugging Face** for providing datasets and models.  
